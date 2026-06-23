@@ -19,6 +19,7 @@ Breeze Music is a beautifully crafted music player designed to provide a premium
 - **Advanced Queue Management:** "Up Next" algorithms automatically generate infinite radio stations based on your current track to ensure the music never stops.
 - **Synchronized Lyrics:** View real-time, perfectly synced lyrics that scroll seamlessly alongside your music.
 - **Smart Search & Quick Picks:** Find exactly what you are looking for with instant suggestions and one-tap playback from search results.
+- **YouTube Music Import:** Seamlessly import and migrate your existing YouTube Music playlists directly into your Breeze library.
 - **Offline Capabilities:** Download your favorite tracks and playlists locally for high-quality offline listening.
 - **Cross-Platform Synchronization:** Securely log in with Google via Firebase Authentication to keep your listening history and preferences in sync.
 - **Custom Audio Pipeline:** Built-in Android equalizer, loudness enhancer, and gapless playback support.
