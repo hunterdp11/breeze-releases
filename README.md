@@ -27,19 +27,22 @@ Breeze Music is a beautifully crafted music player designed to provide a premium
 
 <table align="center">
   <tr>
-    <td align="center"><img src=".assets/screenshots/screenshot_1.png" width="250" alt="Screenshot 1"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_2.png" width="250" alt="Screenshot 2"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_3.png" width="250" alt="Screenshot 3"/></td>
+    <td align="center"><img src=".assets/screenshots/1.png" width="250" alt="Screenshot 1"/></td>
+    <td align="center"><img src=".assets/screenshots/2.png" width="250" alt="Screenshot 2"/></td>
+    <td align="center"><img src=".assets/screenshots/3.png" width="250" alt="Screenshot 3"/></td>
   </tr>
   <tr>
-    <td align="center"><img src=".assets/screenshots/screenshot_4.png" width="250" alt="Screenshot 4"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_5.png" width="250" alt="Screenshot 5"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_6.png" width="250" alt="Screenshot 6"/></td>
+    <td align="center"><img src=".assets/screenshots/4.png" width="250" alt="Screenshot 4"/></td>
+    <td align="center"><img src=".assets/screenshots/5.png" width="250" alt="Screenshot 5"/></td>
+    <td align="center"><img src=".assets/screenshots/6.png" width="250" alt="Screenshot 6"/></td>
   </tr>
   <tr>
-    <td align="center"><img src=".assets/screenshots/screenshot_7.png" width="250" alt="Screenshot 7"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_8.png" width="250" alt="Screenshot 8"/></td>
-    <td align="center"><img src=".assets/screenshots/screenshot_10.png" width="250" alt="Screenshot 9"/></td>
+    <td align="center"><img src=".assets/screenshots/7.png" width="250" alt="Screenshot 7"/></td>
+    <td align="center"><img src=".assets/screenshots/8.png" width="250" alt="Screenshot 8"/></td>
+    <td align="center"><img src=".assets/screenshots/9.png" width="250" alt="Screenshot 9"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src=".assets/screenshots/10.jpg" width="250" alt="Screenshot 10"/></td>
   </tr>
 </table>
 
@@ -53,6 +56,10 @@ You can also browse all available architectures on the [Releases](https://github
 2. Open the downloaded file to install. 
 
 *Note: If prompted, ensure you have enabled "Install unknown apps" for your browser or file manager.*
+
+## Acknowledgements
+
+- **Viper Presets**: Audio tuning configurations inspired by the incredible [ViPER4Android-Presets](https://github.com/syntaxticsugr/ViPER4Android-Presets) collection by syntaxticsugr.
 
 ---
 
