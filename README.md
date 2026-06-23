@@ -41,9 +41,6 @@ Breeze Music is a beautifully crafted music player designed to provide a premium
     <td align="center"><img src=".assets/screenshots/8.png" width="250" alt="Screenshot 8"/></td>
     <td align="center"><img src=".assets/screenshots/9.png" width="250" alt="Screenshot 9"/></td>
   </tr>
-  <tr>
-    <td align="center"><img src=".assets/screenshots/10.jpg" width="250" alt="Screenshot 10"/></td>
-  </tr>
 </table>
 
 ## Installation
