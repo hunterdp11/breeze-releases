@@ -46,7 +46,7 @@ Breeze Music is a beautifully crafted music player designed to provide a premium
 
 ## Installation
 
-<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.0/app-arm64-v8a-release.apk">Download Latest APK (v1.2.0)</a></b></h3>
+<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.1/app-arm64-v8a-release.apk">Download Latest APK (v1.2.1)</a></b></h3>
 
 You can also browse all available architectures on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page.
 
