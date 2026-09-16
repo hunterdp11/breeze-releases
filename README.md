@@ -75,7 +75,7 @@ Breeze Music is a high-performance, cross-platform audio player crafted for high
 ## Installation
 
 ### Android
-<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.5/app-arm64-v8a-release.apk">Download Latest APK (v1.2.5)</a></b></h3>
+<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk">Download Latest APK (v1.2.6)</a></b></h3>
 
 Direct downloads for specific device architectures (`arm64-v8a`, `armeabi-v7a`, `x86_64`) and universal bundles are available on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page.
 
@@ -83,9 +83,11 @@ Direct downloads for specific device architectures (`arm64-v8a`, `armeabi-v7a`, 
 2. Open the downloaded file to install. If prompted, allow installation from your browser or file manager.
 
 ### Windows
-Windows setup packages and standalone portable bundles are published alongside each version release on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page.
+<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe">Download Windows Installer (v1.2.6)</a></b></h3>
 
-1. Download the Windows installer (`Breeze-Setup-x64.exe`) from the latest release assets.
+Windows setup packages are published on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page under the `v1.2.6-windows` tag.
+
+1. Download `Breeze_Setup_v1.2.6.exe` from the latest Windows release assets.
 2. Run the installer to complete setup on Windows 10/11.
 
 ---
