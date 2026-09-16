@@ -2,9 +2,12 @@
   <img src="https://raw.githubusercontent.com/hunterdp11/breeze-releases/main/.assets/icon.png" width="128" alt="Breeze Music Logo" />
   <h1>Breeze Music</h1>
   <p><b>A modern, high-performance music client engineered for Android and Windows.</b></p>
-  
+
   [![Latest Release](https://img.shields.io/github/v/release/hunterdp11/breeze-releases?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases/latest)
   [![Downloads](https://img.shields.io/github/downloads/hunterdp11/breeze-releases/total?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases)
+
+  [![Android](https://img.shields.io/badge/Android-APK%20v1.2.6-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk)
+  [![Windows](https://img.shields.io/badge/Windows-Setup%20v1.2.6-000000?style=for-the-badge&logo=windows)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe)
 </div>
 
 ---
@@ -74,20 +77,21 @@ Breeze Music is a high-performance, cross-platform audio player crafted for high
 
 ## Installation
 
+### Download v1.2.6
+
+| Platform | Architecture | Download |
+|---|---|---|
+| Android | arm64-v8a (Recommended, modern 64-bit devices) | [app-arm64-v8a-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk) |
+| Android | armeabi-v7a (Older 32-bit devices) | [app-armeabi-v7a-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-armeabi-v7a-release.apk) |
+| Android | x86_64 (Emulators and x86 tablets) | [app-x86_64-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-x86_64-release.apk) |
+| Windows | x64 Setup Installer | [Breeze_Setup_v1.2.6.exe](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe) |
+
 ### Android
-<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk">Download Latest APK (v1.2.6)</a></b></h3>
-
-Direct downloads for specific device architectures (`arm64-v8a`, `armeabi-v7a`, `x86_64`) and universal bundles are available on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page.
-
-1. Download the appropriate `.apk` build for your device architecture.
+1. Download the `.apk` appropriate for your device architecture (arm64-v8a for most modern phones).
 2. Open the downloaded file to install. If prompted, allow installation from your browser or file manager.
 
 ### Windows
-<h3><b><a href="https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe">Download Windows Installer (v1.2.6)</a></b></h3>
-
-Windows setup packages are published on the [Releases](https://github.com/hunterdp11/breeze-releases/releases) page under the `v1.2.6-windows` tag.
-
-1. Download `Breeze_Setup_v1.2.6.exe` from the latest Windows release assets.
+1. Download `Breeze_Setup_v1.2.6.exe` from the table above.
 2. Run the installer to complete setup on Windows 10/11.
 
 ---
