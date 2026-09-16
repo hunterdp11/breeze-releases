@@ -3,7 +3,6 @@
   <h1>Breeze Music</h1>
   <p><b>A modern, high-performance music client engineered for Android and Windows.</b></p>
 
-  [![Latest Release](https://img.shields.io/github/v/release/hunterdp11/breeze-releases?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases/latest)
   [![Downloads](https://img.shields.io/github/downloads/hunterdp11/breeze-releases/total?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases)
 
   [![Android](https://img.shields.io/badge/Android-APK%20v1.2.6-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk)
