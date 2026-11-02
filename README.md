@@ -5,7 +5,7 @@
 
   [![Downloads](https://img.shields.io/github/downloads/hunterdp11/breeze-releases/total?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases)
 
-  [![Android](https://img.shields.io/badge/Android-APK%20v1.2.6-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk)
+  [![Android](https://img.shields.io/badge/Android-APK%20v1.2.6-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.7/app-arm64-v8a-release.apk)
   [![Windows](https://img.shields.io/badge/Windows-Setup%20v1.2.6-000000?style=for-the-badge&logo=windows)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe)
 </div>
 
@@ -76,13 +76,11 @@ Breeze Music is a high-performance, cross-platform audio player crafted for high
 
 ## Installation
 
-### Download v1.2.6
+### Download v1.2.7
 
 | Platform | Architecture | Download |
 |---|---|---|
-| Android | arm64-v8a (Recommended, modern 64-bit devices) | [app-arm64-v8a-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-arm64-v8a-release.apk) |
-| Android | armeabi-v7a (Older 32-bit devices) | [app-armeabi-v7a-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-armeabi-v7a-release.apk) |
-| Android | x86_64 (Emulators and x86 tablets) | [app-x86_64-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6/app-x86_64-release.apk) |
+| Android | arm64-v8a (Recommended, modern 64-bit devices) | [app-arm64-v8a-release.apk](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.7/app-arm64-v8a-release.apk) |
 | Windows | x64 Setup Installer | [Breeze_Setup_v1.2.6.exe](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe) |
 
 ### Android
