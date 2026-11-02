@@ -5,7 +5,7 @@
 
   [![Downloads](https://img.shields.io/github/downloads/hunterdp11/breeze-releases/total?style=for-the-badge&color=000000)](https://github.com/hunterdp11/breeze-releases/releases)
 
-  [![Android](https://img.shields.io/badge/Android-APK%20v1.2.6-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.7/app-arm64-v8a-release.apk)
+  [![Android](https://img.shields.io/badge/Android-APK%20v1.2.7-000000?style=for-the-badge&logo=android)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.7/app-arm64-v8a-release.apk)
   [![Windows](https://img.shields.io/badge/Windows-Setup%20v1.2.6-000000?style=for-the-badge&logo=windows)](https://github.com/hunterdp11/breeze-releases/releases/download/v1.2.6-windows/Breeze_Setup_v1.2.6.exe)
 </div>
 
